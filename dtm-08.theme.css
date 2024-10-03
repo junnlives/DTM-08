@@ -5,4 +5,5 @@
 * @description A skeuomorphic/glossy theme
 * @source https://github.com/XYZenix/XYZenixThemes/tree/master/DTM-08-V2
 */
-@import url(https://xyzenix.github.io/XYZenixThemes/DTM-08-V2/dtm-08-v2.css);
+@import "https://raw.githubusercontent.com/junnlives/DTM-08/refs/heads/master/dtm-08-v2.css";
+@import "https://raw.githubusercontent.com/junnlives/comfy_test/master/betterdiscord/vencord-spotify.css"; /* Credits to https://github.com/Comfy-Themes/Discord */
